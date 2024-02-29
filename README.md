@@ -2,13 +2,13 @@
 
 I'm Orhan, a web developer from 🇫🇷 Savoy, France 🇫🇷.
 
-I'm currently in a 11 months [bootcamp](https://simplon.co/formation/concepteur-developpeur-d-applications/12) in [Simplon](https://simplon.co/) to better my skills and land my first job as a junior developer.
+Graduated in Web development in 2023 and now in a 11 months [training](https://simplon.co/formation/concepteur-developpeur-d-applications/12) in [Simplon](https://simplon.co/) to better my skills and land my first job as a junior developer.
 
-### I'm actively looking for an internship starting from June 17th to October 11th 2024.
+### I'm actively looking for an internship starting from June 17th to October 11th 2024. We can work together!
 
 ## Who am I? 
 I'm a tech savvy but when I'm not programming, I enjoy music, basketball, hiking and sharing great meals with family and friends.
-Before getting in web development, I was studying law in college but stopped in 3rd year because I didn't liked it that much.
+Before getting into web development, I was studying law in college but stopped in 3rd year because I didn't liked it that much.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://orhanma.dev/)
