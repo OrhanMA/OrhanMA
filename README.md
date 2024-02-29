@@ -2,9 +2,13 @@
 
 I'm Orhan, a web developer from 🇫🇷 Savoy, France 🇫🇷.
 
-I'm currently in a 11 months [bootcamp](https://simplon.co/formation/concepteur-developpeur-d-applications/12) in [Simplon](https://simplon.co/) to better my skills and land my first job as a junior developer. 
+I'm currently in a 11 months [bootcamp](https://simplon.co/formation/concepteur-developpeur-d-applications/12) in [Simplon](https://simplon.co/) to better my skills and land my first job as a junior developer.
 
 ### I'm actively looking for an internship starting from June 17th to October 11th 2024.
+
+## Who am I? 
+I'm a tech savvy but when I'm not programming, I enjoy music, basketball, hiking and sharing great meals with family and friends.
+Before getting in web development, I was studying law in college but stopped in 3rd year because I didn't liked it that much.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://orhanma.dev/)
@@ -21,3 +25,5 @@ I'm currently in a 11 months [bootcamp](https://simplon.co/formation/concepteur-
 | Others | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
 
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrhanMA&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OrhanMA&theme=github_dark) 
