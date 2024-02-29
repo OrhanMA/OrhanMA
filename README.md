@@ -1,8 +1,12 @@
-# Hello! Welcome to my profile.
+# 🚀 Hello! Welcome to my profile.
 
 I'm Orhan, a junior web developer from 🇫🇷 Savoy, France 🇫🇷.
 
 I'm currently in a 11 months bootcamp in Simplon to better my skills and land my first job as a junior developer. 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://orhanma.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhanmadi/)
 
 ### I'm mainly a Javascript developer but here's all I can do:
 
