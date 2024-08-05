@@ -4,7 +4,7 @@ I'm Orhan, a web developer from 🇫🇷 Savoy, France 🇫🇷.
 
 Graduated in Web development in 2023 and now in a 11 months [training](https://simplon.co/formation/concepteur-developpeur-d-applications/12) in [Simplon](https://simplon.co/) to better my skills and land my first job as a junior developer.
 
-### I'm actively looking for an internship starting from June 17th to October 11th 2024. We can work together!
+### I'm currently in an internship in the [Computer Science Laboratory of Grenoble](https://www.liglab.fr/fr/presentation).
 
 ## Who am I? 
 I'm a tech savvy but when I'm not programming, I enjoy music, basketball, hiking and sharing great meals with family and friends.
