@@ -1,29 +1,146 @@
-# 🚀 Hello! Welcome to my profile.
+# Hi, I'm Orhan Madi Assani
 
-I'm Orhan, a web developer from 🇫🇷 Savoy, France 🇫🇷.
+Fullstack developer based in Chambéry, France.
 
-Graduated in Web development in 2023 and now in a 11 months [training](https://simplon.co/formation/concepteur-developpeur-d-applications/12) in [Simplon](https://simplon.co/) to better my skills and land my first job as a junior developer.
+I build business-oriented web applications, ERP features, and polished frontend experiences.  
+My current focus is **Odoo development**, **Python**, **Symfony**, **Next.js**, and modern software engineering practices.
 
-### I also have project availables on Gitlab. Take a look here: https://gitlab.com/users/OrhanMA/projects
+I'm currently a **Fullstack Developer apprentice at 1UP Distribution**, where I work on:
 
-## Who am I? 
-I'm a tech savvy but when I'm not programming, I enjoy music, basketball, hiking and sharing great meals with family and friends.
-Before getting into web development, I was studying law in college but stopped in 3rd year because I didn't liked it that much.
+- custom Odoo modules and ERP workflows;
+- Odoo migration and stabilization projects;
+- Symfony-based B2B/e-commerce tooling;
+- corporate websites with Next.js, GSAP, Sanity and internationalization;
+- DevOps, CI/CD, VPS administration and PostgreSQL databases.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://orhanma.dev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhanmadi/)
+Before becoming a developer, I studied law for three years. I eventually switched paths, learned web development seriously, trained at Simplon, completed a research internship at the Grenoble Computer Science Laboratory, and now continue my engineering studies at ISCOD.
 
-## 🛠️ I'm mainly a Javascript developer but here's all I can do:
+## Portfolio
 
-| Stack             |                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Javascript | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |
-| PHP | ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
-| Databases | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| CSS | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |
-| Others | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+My full portfolio is here:
 
+[![Portfolio](https://img.shields.io/badge/portfolio-orhanmadiassani.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://orhanmadiassani.com)
+
+## What I Work On
+
+### ERP / Business Software
+
+I develop and maintain custom **Odoo** modules for real business needs: accounting, sales, logistics, CRM, reporting, B2B stock synchronization, alerts and internal workflows.
+
+I also publish standalone Odoo modules extracted from professional use cases:
+
+[![GitHub Odoo Projects](https://img.shields.io/badge/Odoo_modules-GitHub-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://github.com/OrhanMA)
+
+### Web Applications
+
+I build fullstack web apps with:
+
+- **Next.js / React / TypeScript**
+- **Symfony / PHP**
+- **Vue / Nuxt**
+- **PostgreSQL**
+- **REST APIs**
+- **Server actions and form workflows**
+- **Testing with Vitest, React Testing Library and Playwright**
+
+### Frontend & UX
+
+I care about clean interfaces, performance, accessibility, motion and responsive design.
+
+Tools I often use:
+
+- Tailwind CSS
+- shadcn/ui
+- GSAP
+- Lenis
+- MDX
+- next-intl or custom dictionary-based i18n
+
+## Selected Projects
+
+### Odoo ERP Migration v16 to v19
+
+Migration and stabilization of a company ERP used daily across sales, accounting, logistics and management workflows.
+
+Key work:
+
+- custom module compatibility;
+- XML view fixes;
+- QWeb report adaptation;
+- accounting and margin logic stabilization;
+- B2B stock API adjustments;
+- post-migration regression fixes.
+
+### Custom Odoo Business Modules
+
+Development of 20+ custom Odoo modules covering:
+
+- invoice margin calculation;
+- overdue invoice alerts;
+- packing lists;
+- partner qualification;
+- product metadata;
+- B2B pricing;
+- stock and catalogue synchronization.
+
+### CAP2vie — LIG Research Internship
+
+Web application for sociological surveys on life trajectories.
+
+Stack:
+
+- Nuxt / Vue
+- D3.js
+- Express.js
+- Prisma
+- PostgreSQL
+- Socket.io
+
+Main challenges:
+
+- custom D3.js life trajectory visualization;
+- sequential questionnaire flow;
+- conflict handling for overlapping dates;
+- multi-screen synchronization for interviews.
+
+### 1UP Corporate Website
+
+Corporate website redesign with:
+
+- Next.js 16;
+- React 19;
+- GSAP animations;
+- Sanity CMS;
+- multi-language routing;
+- cookie consent;
+- contact and application forms;
+- SEO and structured data.
+
+## Tech Stack
+
+| Area | Tools |
+| --- | --- |
+| ERP | Odoo, Python, PostgreSQL, Odoo.sh |
+| Frontend | React, Next.js, Vue, Nuxt, TypeScript |
+| Backend | Symfony, PHP, Express.js, Node.js |
+| Styling | Tailwind CSS, shadcn/ui, GSAP |
+| Databases | PostgreSQL, MySQL, MongoDB, Redis |
+| DevOps | Docker, Linux, VPS, GitHub Actions, Vercel |
+| Testing | Vitest, React Testing Library, Playwright, Cypress |
+| CMS / Content | Sanity, MDX |
+| Other | Git, CI/CD, REST APIs, Figma |
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-Orhan_Madi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orhanmadi/)
+[![Portfolio](https://img.shields.io/badge/portfolio-orhanmadiassani.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://orhanmadiassani.com)
+[![GitLab](https://img.shields.io/badge/gitlab-OrhanMA-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/OrhanMA/projects)
+
+## Outside Code
+
+When I'm not coding, I enjoy basketball, the NBA, chess, music, hiking, and good meals with family and friends.
+
+## GitHub Stats
 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrhanMA&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OrhanMA&theme=github_dark) 
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OrhanMA&theme=github_dark)
